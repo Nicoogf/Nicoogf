@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nicolas Falabella</h1>
-<h3 align="center">Frontend Developer</h3>
+<h1 align="center">Hi 👋, I'm Nicolas </h1>
+<h3 align="center">Fullstack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicoogf&label=Profile%20views&color=0e75b6&style=flat" alt="nicoogf" /> </p>
 
@@ -9,11 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://nicoogf.github.io/Portfolio/](https://nicoogf.github.io/Portfolio/)
 
-- 💬 Ask me about **Javascript , React ,N ext.js**
+- 💬 Ask me about ** MERN Stack**
 
 - 📫 How to reach me **nicolasgfalabella@gmail.com**
-
-- ⚡ Fun fact **Intento de guitarrista**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
